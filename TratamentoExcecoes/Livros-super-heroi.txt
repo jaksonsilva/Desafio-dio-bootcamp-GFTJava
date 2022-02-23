@@ -1,0 +1,8 @@
+|======ABRINDO O ARQUIVO ==|
+|-------SUPER HERÓIS-------|
+| Batman                   |
+| Homem de ferro           |
+| capitão américa          |
+| Superman                 |
+| Homem aranha             |
+|====FECHANDO O ARQUIVO====|
